@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Md. Atiar Rahman — Web Full-Stack Developer
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-ff9800?style=flat&logo=google-chrome&logoColor=white)]([Portfolio](https://portfolio-seven-sable-50.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20My%20Website-ff9800?style=flat&logo=google-chrome&logoColor=white)](https://portfolio-seven-sable-50.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile) 
 [![Twitter](https://img.shields.io/badge/-@yourhandle-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
 [![Mail](https://img.shields.io/badge/-your.email%40mail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:atiar1709@gmail.com)
