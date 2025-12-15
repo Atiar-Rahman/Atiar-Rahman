@@ -8,8 +8,8 @@
   <a href="mailto:atiar1709@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="www.linkedin.com/in/md-atiar-rahman1709">
-    <img src="www.linkedin.com/in/md-atiar-rahman1709" />
+  <a href="https://www.linkedin.com/in/md-atiar-rahman-a90109300">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
@@ -30,16 +30,16 @@ I enjoy working across the stack—from elegant frontends to robust backend syst
 ## 🛠️ Tech Stack
 
 **Frontend:**  
-React · Next.js · Tailwind CSS · JavaScript (ES6+)
+React · Next.js · Tailwind CSS · JavaScript (ES6+) . Html . CSS3
 
 **Backend:**  
-Django · Django REST Framework · Node.js
+Django · Django REST Framework · Python
 
 **Database:**  
 MySQL · PostgreSQL · MongoDB
 
 **Tools:**  
-Git · GitHub · Vercel · Firebase
+Git · GitHub · Vercel · Firebase . Linux
 
 ---
 
@@ -84,8 +84,7 @@ React-based learning platform with course browsing and interactive UI.
 
 - 🌍 Portfolio: https://portfolio-seven-sable-50.vercel.app/
 - 📧 Email: atiar1709@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile
+- 💼 LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/md-atiar-rahman-a90109300)
 
 ---
 
-⭐ _If you like my work, consider giving a star to my repositories!_
