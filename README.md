@@ -8,8 +8,8 @@
   <a href="mailto:atiar1709@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  <a href="www.linkedin.com/in/md-atiar-rahman1709">
+    <img src="www.linkedin.com/in/md-atiar-rahman1709" />
   </a>
 </p>
 
